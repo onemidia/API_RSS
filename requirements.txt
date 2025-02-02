@@ -1,0 +1,5 @@
+Flask
+pandas
+feedgenerator
+gunicorn  # Para rodar a aplicação em produção
+psycopg2  # Se utilizar PostgreSQL
